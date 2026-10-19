@@ -5,3 +5,5 @@ python-dotenv>=1.0
 apscheduler>=3.10
 pydantic>=2.7
 pydantic-settings>=2.2
+pandas>=2.2
+scikit-learn>=1.5
